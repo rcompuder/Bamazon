@@ -14,32 +14,32 @@ CREATE TABLE products (
   PRIMARY KEY (id)
 );
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (1,"purse", "womens", 67, "projects");
+INSERT INTO products (item_id, product_name , department_name, price, stock_quantity)
+VALUES (1,"purse1", "womens", 67, 5);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (2,"purse", "womens", 100, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (2,"purse2", "womens", 100, 10);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (3,"purse", "womens", 7, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (3,"purse3", "womens", 7, 15);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (4,"purse", "womens", 6, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (4,"purse4", "womens", 6, 20);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (5,"purse", "womens", 670, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (5,"purse5", "womens", 670, 25);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (6,"purse", "womens", 15 , "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (6,"purse6", "womens", 15 , 30);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (7,"purse", "womens", 25, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (7,"purse7", "womens", 25, 35);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (8,"purse", "womens", 67, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (8,"purse8", "womens", 67, 40);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (9,"purse", "womens", 67, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (9,"purse9", "womens", 67, 45);
 
-INSERT INTO products (item_id, product_name , department_name, price,stock_quantity):
-VALUES (10,"purse", "womens", 67, "projects");
+INSERT INTO products (item_id, product_name , department_name, price,stock_quantity)
+VALUES (10,"purse10", "womens", 67, 50);
